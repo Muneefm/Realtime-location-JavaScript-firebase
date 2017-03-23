@@ -1,0 +1,14 @@
+{
+  "name": "locate",
+  "version": "1.0.0",
+  "description": "Relatime location app using firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muneef M",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
